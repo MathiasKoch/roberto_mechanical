@@ -1,0 +1,24 @@
+"RefDes"                                                                   ;"Value" ;"Name"          ;"Pattern"                   ;"Manufacturer"    ;"Quantity" ;"In stock"
+"BAT_BAL"                                                                  ;""      ;"S4B-XH-SM4-TB" ;"S4B-XH-SM4-TB"             ;""                ;"1"        ;
+"BAT_PWR"                                                                  ;""      ;"XT60"          ;"XT60"                      ;""                ;"1"        ;
+"C1"                                                                       ;""      ;"CAP200RP"      ;"CAPPR-5.08/7.62"           ;""                ;"1"        ;
+"C2, C3, C12"                                                              ;"1.0uF" ;"CAP_0603"      ;"CAP_0603"                  ;""                ;"3"        ;X
+"C4, C5, C7, C8, C9, C10, C11"                                             ;"0.1uF" ;"CAP_0603"      ;"CAP_0603"                  ;""                ;"7"        ;X
+"C6"                                                                       ;"4.7uF" ;"CAP_0603"      ;"CAP_0603"                  ;""                ;"1"        ;X
+"C13, C14"                                                                 ;"18pF"  ;"CAP_0603"      ;"CAP_0603"                  ;""                ;"2"        ;X
+"CHARGER_BAL"                                                              ;""      ;"90131-0123"    ;"HDR-2x3T/2.54x2.54/8x5"    ;"Molex"           ;"1"        ;
+"CHARGER_DATA, MOTOR_DATA1"                                                ;""      ;"90131-0124"    ;"HDR-2x4T/2.54x2.54/10x5"   ;"Molex"           ;"2"        ;
+"CHARGER_PWR1, CHARGER_PWR2,CHARGER_PWR3,MOTOR_PWR1,MOTOR_PWR2,MOTOR_PWR3" ;""      ;"644456-4"      ;"HDR-1x4T/2.54/10x2"        ;"TE Connectivity" ;"6"        ;
+"CHARGER_TS"                                                               ;""      ;"644456-3"      ;"HDR-1x3T/2.54/7x2"         ;"TE Connectivity" ;"1"        ;
+"J4"                                                                       ;""      ;"87230-5"       ;"HDR-2x5TH/2.54x2.54/12x15" ;"TE Connectivity" ;"1"        ;
+"MOTOR_REF"                                                                ;""      ;"90131-0122"    ;"HDR-2x2T/2.54x2.54/5x5"    ;"Molex"           ;"1"        ;
+"Q1"                                                                       ;""      ;"FMMT618TA"     ;"SOT23"                     ;"Diodes"          ;"1"        ;X
+"R4"                                                                       ;"12K"   ;"RES_0603"      ;"RES_0603"                  ;""                ;"1"        ;X
+"R5, R6, R7, R9, R10, R11, R12"                                            ;"100K"  ;"RES_0603"      ;"RES_0603"                  ;""                ;"7"        ;X
+"R13"                                                                      ;"10K"   ;"RES_0603"      ;"RES_0603"                  ;""                ;"1"        ;X
+"Res1, Res2, Res3"                                                         ;"100R"  ;"ResArray"      ;"CAY10-102J4LF"             ;""                ;"3"        ;B
+"SERVO1, SERVO2"                                                           ;""      ;"S3B-ZR-SM4-TF" ;"S3B-ZR-SM4-TF"             ;""                ;"2"        ;
+"U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12"                        ;""      ;"LED3MM"        ;"LED3MM"                    ;""                ;"12"       ;
+"U13"                                                                      ;""      ;"TXS0108"       ;"VQFN-20/4.5x3.5"           ;"TI"              ;"1"        ;X
+"U19"                                                                      ;""      ;"USB2514B"      ;"QFN-36L/6x6x0.5"           ;"Microchip"       ;"1"        ;X
+"Y1"                                                                       ;"24MHz" ;"CFPX-5"        ;"CFPX-5"                    ;""                ;"1"        ;X

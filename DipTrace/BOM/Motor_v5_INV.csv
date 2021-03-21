@@ -1,0 +1,23 @@
+"RefDes"                               ;"Value"      ;"Name"          ;"Pattern"                 ;"Manufacturer"    ;"Quantity" ;"In Stock"
+"C1, C2"                               ;"12pF"       ;"CAP_0603"      ;"CAP_0603"                ;""                ;"2"        ;X
+"C3, C4"                               ;"100nF"      ;"CAP_0603"      ;"CAP_0603"                ;""                ;"2"        ;X
+"C39"                                  ;"10nF"       ;"CAP_0603"      ;"CAP_0603"                ;""                ;"1"        ;X
+"C44, C46"                             ;"4.7uF"      ;"CAP_0603"      ;"CAP_0603"                ;""                ;"2"        ;X
+"E1, E2, E3, E4"                       ;""           ;"S4B-ZR-SM4-TF" ;"S4B-ZR-SM4-TF"           ;""                ;"4"        ;
+"J1, J2, J3"                           ;""           ;"JST-ZH3"       ;"JST-ZH-3"                ;""                ;"3"        ;
+"J5"                                   ;"BOOT"       ;"90131-0121"    ;"HDR-2x1T/2.54x2.54/3x5"  ;"Molex"           ;"1"        ;
+"MOTOR1, MOTOR2, MOTOR3, MOTOR4"       ;""           ;"S4B-XH-SM4-TB" ;"S4B-XH-SM4-TB"           ;""                ;"4"        ;
+"MOTOR_DATA"                           ;""           ;"90131-0124"    ;"HDR-2x4T/2.54x2.54/10x5" ;"Molex"           ;"1"        ;
+"MOTOR_PWR1, MOTOR_PWR2, MOTOR_PWR3"   ;""           ;"644456-4"      ;"HDR-1x4T/2.54/10x2"      ;"TE Connectivity" ;"3"        ;
+"MOTOR_REF"                            ;""           ;"90131-0122"    ;"HDR-2x2T/2.54x2.54/5x5"  ;"Molex"           ;"1"        ;
+"R2, R4, R14, R24, R34"                ;"10k"        ;"RES_0603"      ;"RES_0603"                ;""                ;"5"        ;X
+"R3"                                   ;"SDA2, SCL2" ;"RES_0603"      ;"RES_0603"                ;""                ;"2"        ;X
+"R6, R9"                               ;"22R"        ;"RES_0603"      ;"RES_0603"                ;""                ;"2"        ;X
+"R7, R8, R17, R18, R27, R28, R37, R38" ;"4k7"        ;"RES_0603"      ;"RES_0603"                ;""                ;"8"        ;X
+"R16"                                  ;"SDA, SCL"   ;"RES_0603"      ;"RES_0603"                ;""                ;"2"        ;X
+"Res1, Res2, Res3, Res4"               ;"1K"         ;"ResArray"      ;"CAY10-102J4LF"           ;""                ;"4"        ;X
+"S1"                                   ;"RESET"      ;"MC32882"       ;"KMR221G LFS"             ;"Multicomp"       ;"1"        ;
+"TOOL_I2C"                             ;""           ;"B4B-ZR-SM4-TF" ;"B4B-ZR-SM4-TF"           ;""                ;"1"        ;
+"U1, U2, U3, U4"                       ;""           ;"VNH3SP30-E"    ;"MultiPowerSO-30"         ;"ST Electronics"  ;"4"        ;?
+"U6"                                   ;""           ;"STM32F302CCT6" ;"LQFP48/7x7"              ;"ST"              ;"1"        ;X
+"Y2"                                   ;""           ;"CFPX-5"        ;"CFPX-5"                  ;""                ;"1"        ;X
